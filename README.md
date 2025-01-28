@@ -1,4 +1,5 @@
 # Goida
+<<<<<<< HEAD
 
 - Author: Ya
 
@@ -6,3 +7,6 @@
 - git add .
 - git commit -m "test"
 - git push
+=======
+TEST TEST TEST
+>>>>>>> test

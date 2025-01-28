@@ -3,4 +3,6 @@
 - Author: Ya
 
 ## git commands
-ne ponimay chto napisat
+git add .
+git commit -m "test"
+git push
